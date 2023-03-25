@@ -4,6 +4,10 @@
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
+
 body {
   margin: 0;
 }
@@ -46,6 +50,10 @@ main {
   border-width: 1px;
   border-radius: 10px;
   border-color: rgb(65, 28, 2);
+}
+
+footer {
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
